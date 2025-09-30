@@ -6,7 +6,9 @@ th, td {
 }
 
 tr:nth-child(odd) {
-    background-color: blue;}
+    background-color: blue;
+}
+
 div {
   background-color: darkcyan;
   text-align: right;

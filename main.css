@@ -8,9 +8,8 @@ th, td {
 tr:nth-child(odd) {
     background-color: blue;
 }
-
 div {
-  background-color: darkcyan;
+  background-color: blue;
   text-align: right;
 }
 h1 {
